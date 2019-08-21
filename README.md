@@ -1,3 +1,5 @@
+```
+
 # the version of python
 version="3.7.3"
 # the installation directory of python
@@ -23,3 +25,5 @@ sudo make
 sudo make install
 echo "all in well !"
 
+
+```
